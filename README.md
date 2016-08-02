@@ -14,11 +14,13 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Makefile](#makefile)
+    - [Objective-C](#objective-c)
     - [Others](#others)
     - [Perl](#perl)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Shell](#shell)
+    - [Swift](#swift)
     - [TypeScript](#typescript)
     - [VimL](#viml)
 
@@ -53,6 +55,7 @@
 
 ## JavaScript
 
+* [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 * [generator-ng2-webpack](https://github.com/cmelion/generator-ng2-webpack) - An opinionated tool for scaffolding an app using angular2 and webpack
 * [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
 * [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @AngularClass
@@ -80,8 +83,13 @@
 
 * [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
+## Objective-C
+
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, OS X, watchOS, and tvOS.
+
 ## Others
 
+* [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 * [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -105,6 +113,10 @@
 ## Shell
 
 * [passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
+
+## Swift
+
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X
 
 ## TypeScript
 
