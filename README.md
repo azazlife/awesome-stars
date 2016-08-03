@@ -18,7 +18,6 @@
     - [Others](#others)
     - [Perl](#perl)
     - [Python](#python)
-    - [Ruby](#ruby)
     - [Shell](#shell)
     - [Swift](#swift)
     - [TypeScript](#typescript)
@@ -89,6 +88,8 @@
 
 ## Others
 
+* [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
+* [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) - :cyclone: A list of awesome AngularJs services, directives, utilities and resources.
 * [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 * [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
@@ -105,10 +106,6 @@
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 * [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
-
-## Ruby
-
-* [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - :package: Bundler for non-Ruby dependencies from Homebrew
 
 ## Shell
 
