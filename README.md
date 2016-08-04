@@ -40,6 +40,7 @@
 
 ## Go
 
+* [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 
 ## HTML
@@ -54,6 +55,7 @@
 
 ## JavaScript
 
+* [Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 * [generator-ng2-webpack](https://github.com/cmelion/generator-ng2-webpack) - An opinionated tool for scaffolding an app using angular2 and webpack
 * [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
@@ -104,6 +106,7 @@
 
 ## Python
 
+* [homectl](https://github.com/josh-berry/homectl) - A simple package and configuration manager for your ~. Keeps dotfiles, shell customizations, elisp, etc. in Git and synced across all your systems.
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 * [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 
@@ -117,6 +120,10 @@
 
 ## TypeScript
 
+* [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
+* [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular 2 powered Bootstrap
+* [angular2-seed](https://github.com/angular/angular2-seed) - 
+* [angular2-seed](https://github.com/mgechev/angular2-seed) - Modular starter (seed) project for Angular 2 apps with fast, statically typed build
 * [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
 
 ## VimL
