@@ -40,11 +40,13 @@
 
 ## Go
 
+* [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 * [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 
 ## HTML
 
+* [ng2-bootstrap-sbadmin](https://github.com/AngularShowcase/ng2-bootstrap-sbadmin) - SB Admin 2.0 project with Angular 2 and ng2-bootstrap
 * [lumX](https://github.com/lumapps/lumX) - 
 * [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
@@ -55,6 +57,11 @@
 
 ## JavaScript
 
+* [ng2-admin-lte](https://github.com/TwanoO67/ng2-admin-lte) - Bootstraping of Angular2 with AdminLTE dashboard template (using angular2 rc4, 3.0.0 beta router, angular-cli and ng2-bootstrap )
+* [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+* [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+* [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
+* [browser-extension](https://github.com/OctoLinker/browser-extension) - OctoLinker – Available on Chrome, Firefox and Opera
 * [Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 * [generator-ng2-webpack](https://github.com/cmelion/generator-ng2-webpack) - An opinionated tool for scaffolding an app using angular2 and webpack
@@ -78,7 +85,7 @@
 * [angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) - Angular admin dashboard with material design
 * [Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Seamless Material Design theme for Ionic
 * [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
-* [sandstorm](https://github.com/sandstorm-io/sandstorm) - Personal Cloud Sandbox
+* [sandstorm](https://github.com/sandstorm-io/sandstorm) - Self-hostable Web App Platform
 
 ## Makefile
 
@@ -120,6 +127,8 @@
 
 ## TypeScript
 
+* [angular2-seed](https://github.com/AngularClass/angular2-seed) - A simple Angular 2 seed featuring Angular 2 and Webpack 2 by @AngularClass
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) - Native Angular2 directives for Bootstrap
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
 * [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular 2 powered Bootstrap
 * [angular2-seed](https://github.com/angular/angular2-seed) - 
