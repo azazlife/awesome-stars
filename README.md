@@ -25,6 +25,7 @@
 
 ## C
 
+* [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 * [cii](https://github.com/drh/cii) - C Interfaces and Implementations
 
 ## C++
@@ -46,6 +47,8 @@
 
 ## HTML
 
+* [Angular-AdminLTE](https://github.com/ahmadalibaloch/Angular-AdminLTE) - AngularjsApp Implementation on top of renowned Admin-LTE theme (https://github.com/almasaeed2010/AdminLTE) now with many useful directives and features.
+* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
 * [ng2-bootstrap-sbadmin](https://github.com/AngularShowcase/ng2-bootstrap-sbadmin) - SB Admin 2.0 project with Angular 2 and ng2-bootstrap
 * [lumX](https://github.com/lumapps/lumX) - 
 * [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -57,6 +60,7 @@
 
 ## JavaScript
 
+* [ng2-webpack-adminlte](https://github.com/jmdatawerk/ng2-webpack-adminlte) - 
 * [ng2-admin-lte](https://github.com/TwanoO67/ng2-admin-lte) - Bootstraping of Angular2 with AdminLTE dashboard template (using angular2 rc4, 3.0.0 beta router, angular-cli and ng2-bootstrap )
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 * [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -127,6 +131,7 @@
 
 ## TypeScript
 
+* [Angular2_Dashboard](https://github.com/clamarque/Angular2_Dashboard) - #admin#angular2#dashboard#Firebase#ng2 #RC4#Typescript
 * [angular2-seed](https://github.com/AngularClass/angular2-seed) - A simple Angular 2 seed featuring Angular 2 and Webpack 2 by @AngularClass
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) - Native Angular2 directives for Bootstrap
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
