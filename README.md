@@ -34,6 +34,8 @@
 
 ## CSS
 
+* [bootstrap-sidebar](https://github.com/asyraf9/bootstrap-sidebar) - A responsive sidebar plugin for bootstrap 3. if your menus are too big to fit into a horizontal menubar, or you need to have a responsive sidebar that is compatible with bootstrap, then this is the plugin for you.
+* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [streamdataio-js](https://github.com/streamdataio/streamdataio-js) - Streamdata.io Javascript package containing SDK, documentation and sample applications
 * [echoes-ng2](https://github.com/orizens/echoes-ng2) - Echoes Player build with angular2 (ported from ng1 version - http://echotu.be )
 * [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -47,6 +49,7 @@
 
 ## HTML
 
+* [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
 * [Angular-AdminLTE](https://github.com/ahmadalibaloch/Angular-AdminLTE) - AngularjsApp Implementation on top of renowned Admin-LTE theme (https://github.com/almasaeed2010/AdminLTE) now with many useful directives and features.
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
 * [ng2-bootstrap-sbadmin](https://github.com/AngularShowcase/ng2-bootstrap-sbadmin) - SB Admin 2.0 project with Angular 2 and ng2-bootstrap
@@ -60,6 +63,9 @@
 
 ## JavaScript
 
+* [ultimate-seed](https://github.com/pilwon/ultimate-seed) - {MEAN Stack on Steroids} The ultimate full-stack AngularJS + Node.js/Express seed (batteries included!) that makes web developers insanely productive. (Angular, AngularUI, Barbeque, Bootstrap, Bower, Browserify, Docker, Express, Font Awesome, Grunt, Handlebars, jQuery, JSHint, Karma/Mocha, LESS/LESSHat, Livereload, Lodash/Underscore, Modernizr, MongoDB/Mongoose, Passport for Facebook/Google/Twitter, Redis, SocketIO, Source Maps, Uglify, Winston)
+* [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+* [babel-starter-kit](https://github.com/kriasoft/babel-starter-kit) - :tropical_fish: Babel Starter Kit is a project template for authoring and publishing JavaScript libraries
 * [ng2-webpack-adminlte](https://github.com/jmdatawerk/ng2-webpack-adminlte) - 
 * [ng2-admin-lte](https://github.com/TwanoO67/ng2-admin-lte) - Bootstraping of Angular2 with AdminLTE dashboard template (using angular2 rc4, 3.0.0 beta router, angular-cli and ng2-bootstrap )
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
@@ -101,6 +107,8 @@
 
 ## Others
 
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 💨 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+* [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
 * [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) - :cyclone: A list of awesome AngularJs services, directives, utilities and resources.
 * [xcconfigs](https://github.com/jspahrsummers/xcconfigs) - Common Xcode configuration files/settings.
@@ -131,6 +139,8 @@
 
 ## TypeScript
 
+* [ng2-sidebar](https://github.com/arkon/ng2-sidebar) - An Angular 2 sidebar component.
+* [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular2
 * [Angular2_Dashboard](https://github.com/clamarque/Angular2_Dashboard) - #admin#angular2#dashboard#Firebase#ng2 #RC4#Typescript
 * [angular2-seed](https://github.com/AngularClass/angular2-seed) - A simple Angular 2 seed featuring Angular 2 and Webpack 2 by @AngularClass
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) - Native Angular2 directives for Bootstrap
