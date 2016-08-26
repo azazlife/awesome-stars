@@ -63,6 +63,9 @@
 
 ## JavaScript
 
+* [jQuery-sidebar](https://github.com/jillix/jQuery-sidebar) - :chocolate_bar: A stupid simple sidebar jQuery plugin.
+* [jquery-boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
+* [gulp-project-template](https://github.com/leonidas/gulp-project-template) - Project template for gulp.js
 * [ultimate-seed](https://github.com/pilwon/ultimate-seed) - {MEAN Stack on Steroids} The ultimate full-stack AngularJS + Node.js/Express seed (batteries included!) that makes web developers insanely productive. (Angular, AngularUI, Barbeque, Bootstrap, Bower, Browserify, Docker, Express, Font Awesome, Grunt, Handlebars, jQuery, JSHint, Karma/Mocha, LESS/LESSHat, Livereload, Lodash/Underscore, Modernizr, MongoDB/Mongoose, Passport for Facebook/Google/Twitter, Redis, SocketIO, Source Maps, Uglify, Winston)
 * [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 * [babel-starter-kit](https://github.com/kriasoft/babel-starter-kit) - :tropical_fish: Babel Starter Kit is a project template for authoring and publishing JavaScript libraries
@@ -76,7 +79,7 @@
 * [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 * [generator-ng2-webpack](https://github.com/cmelion/generator-ng2-webpack) - An opinionated tool for scaffolding an app using angular2 and webpack
 * [wekan](https://github.com/wekan/wekan) - The open-source Trello-like kanban (built with Meteor)
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @AngularClass
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 * [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 * [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [gulp-chef](https://github.com/gulp-cookery/gulp-chef) - Cascading configurable recipes for gulp 4.0. An elegant, intuitive way to reuse gulp tasks.
